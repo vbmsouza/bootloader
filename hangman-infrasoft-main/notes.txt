@@ -1,0 +1,50 @@
+A ser resolvido:
+
+- Verificar printar_Caracteres
+	Printa os caracteres corretos e é alertado através de flag se perdeu vida
+
+- printstringforca
+	> É aqui onde ocorre a decisão de em que local(is) colocar ultima_letra
+
+- Verifcar contador
+	> virou cont
+
+- Verificar nletr
+	> virou numero_de_letras
+	Conta quantas letras diferentes tem a string
+
+- Verificar last_char
+	> Virou ultima_letra
+	Guarda a ultima letra
+
+- Verificar checaletrapalavra
+	Tem .carrega_n
+		Tem palavras_n
+		(n vai de 0-9)
+
+- Verificar qt_caracteres
+	> Virou qtd_de_caracteres
+- qt_vidas
+	> Virou qtd_de_vidas
+- Verificar flag
+	flag=1 quer dizer que perde uma vida
+
+- Variável qt_vidas
+	> substituido por total_vidas
+
+- Variável preencher
+	> Virou linhas_dica
+
+NOVAS PALAVRAS (COM 5 LETRAS):
+PALAVRA		DICA
+
+SAGAZ		INTELIGENTE
+EXITO		SUCESSO
+AFETO		CARINHO
+VIGOR		ENERGIA
+FAZER		REALIZAR
+SANAR		RESOLVER, CURAR
+ETICO		MORAL, JUSTO
+TEMPO		RELÓGIO
+CAUSA		MOTIVO
+COMUM		NORMALv
